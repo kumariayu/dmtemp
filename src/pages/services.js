@@ -279,7 +279,7 @@ const Services = () => {
 
 
     {/* <!--client section start--> */}
-    <div class="client-section ptb-100" style="background: url('img/client-bg.jpg')no-repeat center center / cover">
+    <div class="client-section ptb-100" style="background: url('assets/img/client-bg.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-6">
@@ -300,28 +300,28 @@ const Services = () => {
                 <div class="col-md-10 col-lg-9">
                     <div class="owl-carousel owl-theme clients-carousel dot-indicator client-logo-wrap">
                         <div class="item single-client">
-                            <img src="img/clients-logo-01.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-01.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-02.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-02.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-03.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-03.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-04.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-04.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-05.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-05.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-06.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-06.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-07.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-07.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-08.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-08.png" alt="client logo" class="client-img"/>
                         </div>
                     </div>
                 </div>

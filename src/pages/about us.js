@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../Components/layout'
 
-const AboutUs = () => {
+const aboutUs = () => {
   return (
     
     <Layout>
@@ -25,7 +25,7 @@ const AboutUs = () => {
 
     {/* <!--header section start--> */}
     <section class="hero-section ptb-100 gradient-overlay"
-             style="background: url('img/header-bg-5.jpg')no-repeat center center / cover">
+             style="background: url('assets/img/header-bg-5.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 col-lg-7">
@@ -52,7 +52,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center border rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/search-engine.svg" alt="promo" width="65"/>
+                            <img src="assets/img/search-engine.svg" alt="promo" width="65"/>
                             <span class="number-bg">01</span>
                         </div>
                         <div class="promo-info">
@@ -66,7 +66,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center border rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/increase.svg" alt="promo" width="65"/>
+                            <img src="assets/img/increase.svg" alt="promo" width="65"/>
                             <span class="number-bg">02</span>
                         </div>
                         <div class="promo-info">
@@ -80,7 +80,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center border rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/bullhorn.svg" alt="promo" width="65"/>
+                            <img src="assets/img/bullhorn.svg" alt="promo" width="65"/>
                             <span class="number-bg">03</span>
                         </div>
                         <div class="promo-info">
@@ -150,7 +150,7 @@ const AboutUs = () => {
                 </div>
                 <div class="col-md-12 col-lg-6">
                     <div class="card border-0 text-white">
-                        <img src="img/why-choose-us.png" alt="video" class="img-fluid"/>
+                        <img src="assets/img/why-choose-us.png" alt="video" class="img-fluid"/>
                         <div class="card-img-overlay text-center">
                             <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="popup-youtube video-play-icon color-bip shadow"><span class="ti-control-play"></span> </a>
                         </div>
@@ -304,7 +304,7 @@ const AboutUs = () => {
     {/* <!--work process section end--> */}
 
    {/*  <!--call to action progressbar start--> */}
-    <section class="call-to-action ptb-100" style="background: url('img/ctg-bg-2.jpg')no-repeat center center / cover">
+    <section class="call-to-action ptb-100" style="background: url('assets/img/ctg-bg-2.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -368,7 +368,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-3">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/team-member-1.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
+                            <img src="assets/img/team-member-1.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
                             <div class="card-body">
                                 <h5 class="teacher mb-0">Richard Ford</h5>
                                 <span>Instructor of Mathematics</span>
@@ -409,7 +409,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-3">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/team-member-2.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
+                            <img src="assets/img/team-member-2.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
                             <div class="card-body">
                                 <h5 class="teacher mb-0">Kely Roy</h5>
                                 <span>Lead Designer</span>
@@ -450,7 +450,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-3">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/team-member-3.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
+                            <img src="assets/img/team-member-3.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
                             <div class="card-body">
                                 <h5 class="teacher mb-0">Gerald Nichols</h5>
                                 <span>Managing Director</span>
@@ -491,7 +491,7 @@ const AboutUs = () => {
                 <div class="col-md-6 col-lg-3">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/team-member-4.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
+                            <img src="assets/img/team-member-4.png" alt="team image" width="120" class="img-fluid m-auto pt-4"/>
                             <div class="card-body">
                                 <h5 class="teacher mb-0">Gerald Nichols</h5>
                                 <span>Managing Director</span>
@@ -534,7 +534,7 @@ const AboutUs = () => {
 {/*     <!--team two section end--> */}
 
   {/*   <!--client section start--> */}
-    <div class="client-section ptb-100" style="background: url('img/client-bg.jpg')no-repeat center center / cover">
+    <div class="client-section ptb-100" style="background: url('assets/img/client-bg.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-6">
@@ -555,28 +555,28 @@ const AboutUs = () => {
                 <div class="col-md-10 col-lg-9">
                     <div class="owl-carousel owl-theme clients-carousel dot-indicator client-logo-wrap">
                         <div class="item single-client">
-                            <img src="img/clients-logo-01.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-01.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-02.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-02.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-03.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-03.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-04.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-04.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-05.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-05.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-06.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-06.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-07.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-07.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-08.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-08.png" alt="client logo" class="client-img"/>
                         </div>
                     </div>
                 </div>
@@ -603,4 +603,4 @@ const AboutUs = () => {
   )
 }
 
-export default AboutUs
+export default aboutUs

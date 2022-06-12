@@ -25,11 +25,11 @@ const Home = () => {
 
     {/* <!--hero section start--> */}
     <section class="hero-equal-height ptb-70">
-        <div class="hero-shape-left" style="background: url('img/t6-hero-shape.svg')no-repeat top left"></div>
-        <img src="img/cta-2-path-shape.png" alt="group shape" class="img-fluid group-shape-1"/>
-        <img src="img/cta-2-circle-shape.png" alt="group shape" class="img-fluid group-shape-2"/>
-        <img src="img/cta-2-tringle-shape.png" alt="group shape" class="img-fluid group-shape-3"/>
-        <img src="img/cta-2-tringle-shape.png" alt="group shape" class="img-fluid group-shape-4"/>
+        <div class="hero-shape-left" style="background: url('assets/img/t6-hero-shape.svg')no-repeat top left"></div>
+        <img src="assets/img/cta-2-path-shape.png" alt="group shape" class="img-fluid group-shape-1"/>
+        <img src="assets/img/cta-2-circle-shape.png" alt="group shape" class="img-fluid group-shape-2"/>
+        <img src="assets/img/cta-2-tringle-shape.png" alt="group shape" class="img-fluid group-shape-3"/>
+        <img src="assets/img/cta-2-tringle-shape.png" alt="group shape" class="img-fluid group-shape-4"/>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-12 col-lg-6">
@@ -45,7 +45,7 @@ const Home = () => {
                 </div>
                 <div class="col-md-12 col-lg-6">
                     <div class="img-wrap">
-                        <img src="img/t6-hero-img1.svg" alt="hero" class="img-fluid custom-width"/>
+                        <img src="assets/img/t6-hero-img1.svg" alt="hero" class="img-fluid custom-width"/>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ const Home = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center custom-shadow rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/search-engine.svg" alt="promo" width="65"/>
+                            <img src="assets/img/search-engine.svg" alt="promo" width="65"/>
                             <span class="number-bg">01</span>
                         </div>
                         <div class="promo-info">
@@ -74,7 +74,7 @@ const Home = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center custom-shadow rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/increase.svg" alt="promo" width="65"/>
+                            <img src="assets/img/increase.svg" alt="promo" width="65"/>
                             <span class="number-bg">02</span>
                         </div>
                         <div class="promo-info">
@@ -88,7 +88,7 @@ const Home = () => {
                 <div class="col-md-6 col-lg-4">
                     <div class="promo-single-wrap p-5 text-center custom-shadow rounded">
                         <div class="promo-icon mb-4">
-                            <img src="img/bullhorn.svg" alt="promo" width="65"/>
+                            <img src="assets/img/bullhorn.svg" alt="promo" width="65"/>
                             <span class="number-bg">03</span>
                         </div>
                         <div class="promo-info">
@@ -160,7 +160,7 @@ const Home = () => {
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <div class="image-wrap">
-                        <img src="img/why-choose-us.png" alt="why choose us" class="img-fluid"/>
+                        <img src="assets/img/why-choose-us.png" alt="why choose us" class="img-fluid"/>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@ const Home = () => {
     {/* <!--why choose us section end--> */}
 
     {/* <!--call to action progressbar start--> */}
-    <section class="call-to-action ptb-100" style="background: url('img/ctg-bg-2.jpg')no-repeat center center / cover">
+    <section class="call-to-action ptb-100" style="background: url('assets/img/ctg-bg-2.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -378,7 +378,7 @@ const Home = () => {
                                     </div>
                                     <div class="col-md-12 col-lg-6">
                                         <div class="img-wrap my-md-3 my-lg-3 my-sm-0">
-                                            <img src="img/about-1.jpg" alt="about" class="img-fluid rounded shadow-sm"/>
+                                            <img src="assets/img/about-1.jpg" alt="about" class="img-fluid rounded shadow-sm"/>
                                         </div>
                                     </div>
                                 </div>
@@ -392,21 +392,21 @@ const Home = () => {
                                                 network accurate methods of empowerment rather than client-centered improvements.</p>
                                             <ul class="list-with-icon">
                                                 <li class="d-flex align-items-start">
-                                                    <img src="img/increase.svg" width="35" class="mr-3" alt="list icon"/>
+                                                    <img src="assets/img/increase.svg" width="35" class="mr-3" alt="list icon"/>
                                                     <div class="list-icon-info">
                                                         <strong>Increased Traffic</strong>
                                                         <p>Conveniently provide access to diverse sources vis-a-vis team building customer service. </p>
                                                     </div>
                                                 </li>
                                                 <li class="d-flex align-items-start">
-                                                    <img src="img/search-engine.svg" width="35" class="mr-3" alt="list icon"/>
+                                                    <img src="assets/img/search-engine.svg" width="35" class="mr-3" alt="list icon"/>
                                                     <div class="list-icon-info">
                                                         <strong>Site Optimisation</strong>
                                                         <p>Efficiently fashion ethical customer service with highly efficient methods of empowerment. </p>
                                                     </div>
                                                 </li>
                                                 <li class="d-flex align-items-start">
-                                                    <img src="img/interface.svg" width="35" class="mr-3" alt="list icon"/>
+                                                    <img src="assets/img/interface.svg" width="35" class="mr-3" alt="list icon"/>
                                                     <div class="list-icon-info">
                                                         <strong>Page Rankings</strong>
                                                         <p>Quickly fashion high-quality innovation for cutting-edge sources assertively reinvent inexpensive. </p>
@@ -417,7 +417,7 @@ const Home = () => {
                                     </div>
                                     <div class="col-md-6 col-lg-6">
                                         <div class="image-wrap">
-                                            <img src="img/t6-hero-img1.svg" alt="why choose us" class="img-fluid"/>
+                                            <img src="assets/img/t6-hero-img1.svg" alt="why choose us" class="img-fluid"/>
                                         </div>
                                     </div>
                                 </div>
@@ -426,7 +426,7 @@ const Home = () => {
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-6">
                                         <div class="image-wrap">
-                                            <img src="img/tab-img.png" alt="email" class="img-fluid m-auto"/>
+                                            <img src="assets/img/tab-img.png" alt="email" class="img-fluid m-auto"/>
                                         </div>
                                     </div>
                                     <div class="col-lg-6 col-md-6">
@@ -471,7 +471,7 @@ const Home = () => {
                                     </div>
                                     <div class="col-lg-6 col-md-6">
                                         <div class="image-wrap">
-                                            <img src="img/tab-img.png" alt="email" class="img-fluid m-auto"/>
+                                            <img src="assets/img/tab-img.png" alt="email" class="img-fluid m-auto"/>
                                         </div>
                                     </div>
                                 </div>
@@ -559,7 +559,7 @@ const Home = () => {
         <div class="row m-0">
             <div class="col-lg-6 col-md-12 p-0">
                 <div class="free-trial-image text-center">
-                    <img src="img/cta-2-girl-img.jpg" alt="image" class="img-fluid"/>
+                    <img src="assets/img/cta-2-girl-img.jpg" alt="image" class="img-fluid"/>
                     <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="popup-youtube video-play-icon white-bip shadow"><span class="ti-control-play"></span> </a>
                 </div>
             </div>
@@ -609,7 +609,7 @@ const Home = () => {
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card text-center single-pricing-pack">
                         <div class="price-img pt-5">
-                            <img src="img/priching-img-1.png" alt="price" width="120" class="img-fluid"/>
+                            <img src="assets/img/priching-img-1.png" alt="price" width="120" class="img-fluid"/>
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="price text-center mb-0 monthly-price">$19<span>.99</span></div>
@@ -633,7 +633,7 @@ const Home = () => {
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card popular-price text-center single-pricing-pack">
                         <div class="price-img pt-5">
-                            <img src="img/priching-img-2.png" alt="price" width="120" class="img-fluid"/>
+                            <img src="assets/img/priching-img-2.png" alt="price" width="120" class="img-fluid"/>
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="price text-center mb-0 monthly-price">$49<span>.99</span></div>
@@ -657,7 +657,7 @@ const Home = () => {
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card text-center single-pricing-pack">
                         <div class="price-img pt-5">
-                            <img src="img/priching-img-3.png" alt="price" width="120" class="img-fluid"/>
+                            <img src="assets/img/priching-img-3.png" alt="price" width="120" class="img-fluid"/>
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="price text-center mb-0 monthly-price">$69<span>.99</span></div>
@@ -711,7 +711,7 @@ const Home = () => {
                 <div class="col-md-4">
                     <div class="single-blog-card card border-0 shadow-sm">
                         <div class="blog-img position-relative">
-                            <img src="img/blog/1.jpg" class="card-img-top" alt="blog"/>
+                            <img src="assets/img/blog/1.jpg" class="card-img-top" alt="blog"/>
                             <div class="meta-date">
                                 <strong>24</strong>
                                 <small>Apr</small>
@@ -733,7 +733,7 @@ const Home = () => {
                 <div class="col-md-4">
                     <div class="single-blog-card card border-0 shadow-sm">
                         <div class="blog-img position-relative">
-                            <img src="img/blog/2.jpg" class="card-img-top" alt="blog"/>
+                            <img src="assets/img/blog/2.jpg" class="card-img-top" alt="blog"/>
                             <div class="meta-date">
                                 <strong>24</strong>
                                 <small>Apr</small>
@@ -755,7 +755,7 @@ const Home = () => {
                 <div class="col-md-4">
                     <div class="single-blog-card card border-0 shadow-sm">
                         <div class="blog-img position-relative">
-                            <img src="img/blog/3.jpg" class="card-img-top" alt="blog"/>
+                            <img src="assets/img/blog/3.jpg" class="card-img-top" alt="blog"/>
                             <div class="meta-date">
                                 <strong>24</strong>
                                 <small>Apr</small>
@@ -780,7 +780,7 @@ const Home = () => {
     {/* <!--blog section end--> */}
 
     {/* <!--client section start--> */}
-    <div class="client-section ptb-100" style="background: url('img/client-bg.jpg')no-repeat center center / cover">
+    <div class="client-section ptb-100" style="background: url('assets/img/client-bg.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-6">
@@ -799,28 +799,28 @@ const Home = () => {
                 <div class="col-md-10 col-lg-9">
                     <div class="owl-carousel owl-theme clients-carousel dot-indicator client-logo-wrap">
                         <div class="item single-client">
-                            <img src="img/clients-logo-01.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-01.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-02.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-02.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-03.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-03.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-04.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-04.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-05.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-05.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-06.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-06.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-07.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-07.png" alt="client logo" class="client-img"/>
                         </div>
                         <div class="item single-client">
-                            <img src="img/clients-logo-08.png" alt="client logo" class="client-img"/>
+                            <img src="assets/img/clients-logo-08.png" alt="client logo" class="client-img"/>
                         </div>
                     </div>
                 </div>
@@ -844,7 +844,7 @@ const Home = () => {
                     <div class="row footer-top-wrap">
                         <div class="col-md-4 col-sm-6">
                             <div class="footer-nav-wrap text-white">
-                                <img src="img/logo-white.png" alt="logo" class="mb-2"/>
+                                <img src="assets/img/logo-white.png" alt="logo" class="mb-2"/>
                                 <p>Continually myocardinate inexpensive catalysts for change with seamless
                                     initiatives.</p>
                                 <div class="social-nav mt-4">
@@ -967,6 +967,7 @@ const Home = () => {
     <span class="ti-angle-up"></span>
 </button>
 {/* <!--bottom to top button end--> */}
+
     </Layout>
   )
 }

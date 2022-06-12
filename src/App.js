@@ -4,6 +4,7 @@ import Home from './pages/home'
 import AboutUs from './pages/about us'
 import ContactUs from './pages/contact us'
 import Services from './pages/services'
+import Team from './pages/team'
 
 
 const App=()=>{
@@ -15,6 +16,7 @@ const App=()=>{
       <Route path="/about-us" element={<AboutUs/>}/>
       <Route path="/contact-us" element={<ContactUs/>}/>
       <Route path="/services" element={<Services/>}/> 
+      <Route path="/team" element={<Team/>}/> 
     </Routes>
   </Router>
   </div>
